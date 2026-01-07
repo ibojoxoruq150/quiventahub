@@ -402,12 +402,10 @@
                     <p>Enhance your natural features with our everyday makeup services. Learn techniques to streamline your morning routine while achieving polished, professional results. We teach you how to maintain your look throughout busy days and adapt it for different occasions.</p>
                 </div>
                 <div class="card6z2m">
-                    <img src="https://images.pexels.com/photos/3373750/pexels-photo-3373750.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Makeup Lessons">
                     <h3>Personal Makeup Lessons</h3>
                     <p>Comprehensive one-on-one instruction tailored to your skill level and goals. Discover which products work best for your skin type, face shape, and lifestyle. Build confidence in your makeup abilities through hands-on practice and expert guidance.</p>
                 </div>
                 <div class="card6z2m">
-                    <img src="https://images.pexels.com/photos/3373751/pexels-photo-3373751.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Group Services">
                     <h3>Group Makeup Sessions</h3>
                     <p>Perfect for bridal parties, corporate events, or celebrations with friends. Our team coordinates seamlessly to ensure everyone receives exceptional service within your timeframe. We bring all necessary equipment and create a fun, relaxing atmosphere for your group.</p>
                 </div>
@@ -417,7 +415,6 @@
         <section class="section4r7" id="about7m">
             <h2>About QuiventaHub</h2>
             <div class="info-block3x7">
-                <img src="https://images.pexels.com/photos/3373752/pexels-photo-3373752.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Makeup Studio" class="service-img9x">
                 <p>QuiventaHub represents the culmination of passion, artistry, and dedication to the craft of makeup application. Our team consists of professionally trained artists who continuously expand their knowledge through ongoing education and industry research. We believe makeup serves as a powerful tool for self-expression and confidence building.</p>
                 <p>Every client receives personalized attention because we recognize that beauty manifests differently for each individual. Our approach combines technical expertise with artistic vision, ensuring results that exceed expectations. We maintain the highest standards of hygiene and use only quality products suitable for all skin types.</p>
                 <p>The QuiventaHub experience extends beyond simple makeup application. We create comfortable environments where clients feel valued and heard. Our consultations explore your preferences, concerns, and desired outcomes, allowing us to craft truly customized solutions. This collaborative process ensures satisfaction and builds lasting relationships.</p>
@@ -497,7 +494,6 @@
         <section class="section4r7" id="techniques5m">
             <h2>Professional Techniques We Employ</h2>
             <div class="info-block3x7">
-                <img src="https://images.pexels.com/photos/3373753/pexels-photo-3373753.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Makeup Techniques" class="service-img9x">
                 <h3>Airbrush Application Methods</h3>
                 <p>Airbrush makeup provides unparalleled coverage and longevity, making it ideal for weddings, photoshoots, and special events. This technique involves spraying fine mist of makeup onto skin, creating a flawless, natural-looking finish. The result appears seamless in photographs and withstands heat, humidity, and long wear times. Our artists have mastered airbrush application for face and body, adjusting pressure and distance for optimal results.</p>
                 
@@ -585,7 +581,6 @@
                         <p><strong>Hours:</strong> Monday-Saturday 9:00 AM - 7:00 PM, Sunday 10:00 AM - 4:00 PM</p>
                     </div>
                     
-                    <img src="https://images.pexels.com/photos/3065175/pexels-photo-3065175.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Contact Us" class="service-img9x">
                     
                     <p>Whether you need bridal makeup, special event services, professional photoshoot preparation, or personal makeup lessons, QuiventaHub delivers exceptional results. Our experienced artists bring passion, skill, and dedication to every appointment. We work with all skin types, tones, and ages, creating customized looks that enhance your natural beauty.</p>
                     
@@ -736,3 +731,4 @@
 
 </body>
 </html>
+
